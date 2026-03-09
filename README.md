@@ -36,7 +36,7 @@ Today, CAF administrative officers manage deployment screening across dozens of 
 
 ## Project Documents
 
-> 📋 [Planning & Organization](#https://1drv.ms/x/c/A1FAC3C5EEAECA1B/IQDImqEt7IwDQqTFW_ifWi0WAcQpFwz3sOmKaDKSrkClaKk?e=2OTciE) — *()*
+> 📋 [Planning & Organization](#) — *(https://1drv.ms/x/c/A1FAC3C5EEAECA1B/IQDImqEt7IwDQqTFW_ifWi0WAcQpFwz3sOmKaDKSrkClaKk?e=2OTciE)*
 > 
 > 🏗️ [Architecture Decision Record (ADR)](#) — *(OneDrive link to be added)*
 > 
