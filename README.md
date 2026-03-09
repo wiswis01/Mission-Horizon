@@ -44,7 +44,7 @@ Today, CAF administrative officers manage deployment screening across dozens of 
 > 
 > 🔒 [Security Architecture](#) — *(OneDrive link to be added)*
 > 
-> 📄 [Technical Architecture Document](#) — *(OneDrive link to be added)*
+> 📄 [Technical Architecture Document](#) — *(https://1drv.ms/u/c/A1FAC3C5EEAECA1B/IQD1Q5SUU-FOS4hKcRjqqKP4Adw8D9CL_LjhkYiOnMGcykQ?e=B3bMY1)*
 > 
 > 🗺️ [Integration Roadmap](#) — *(OneDrive link to be added)*
 > 
